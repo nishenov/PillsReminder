@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PillsReminder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="taken">Принято: 0</string>
+    <string name="missed">Пропущено: 0</string>
+    <string name="late">С задежкой: 0</string>
+    <string name="period">Период:</string>
+    <string name="dash">-</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="add">Добавить</string>
+</resources>
